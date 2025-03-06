@@ -1,6 +1,6 @@
 ## Test Repo for expirementing with Terraform's VC Workflow
-\
-\
+
+
 **High Level Prerequisites**
 - Create Github Repo and add Terraform files to create a simple and free resource (eg Resource group).
 - Create Azure Account, a Subscription and a Service Principal ([Instructions](https://learn.microsoft.com/en-us/azure/developer/terraform/authenticate-to-azure-with-service-principle?tabs=azure-powershell)). In simple terms this is an account that will be used by Terraform to make changes in Azure. Personally I used Azure cloud shell since no setup is needed compared to configuring my desktops powershell.
